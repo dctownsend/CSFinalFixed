@@ -1,0 +1,12 @@
+Navigate:
+    A -> left
+    D -> right
+    W -> forward
+    S -> backward
+    Shift -> down
+    Space -> up
+
+Special Key:
+    L -> limit the movement within the terrain
+    U -> free to move outside the terrain
+    F1 -> change the terrain
